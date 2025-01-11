@@ -1,6 +1,6 @@
-# Children's Reading Sentiment Analysis Dataset
+# Children’s Reading Sentiment Recognition Dataset
 
-This dataset is designed to provide high-quality training data for sentiment analysis of children's reading. The dataset is derived from 62 well-known Chinese children's stories, covering a wide range of emotional expressions and narrative styles, and reflects the language and emotional features of children's reading.
+This dataset is designed to provide high-quality training data for sentiment Recognition of children's reading. The dataset is derived from 62 well-known Chinese children's stories, covering a wide range of emotional expressions and narrative styles, and reflects the language and emotional features of children's reading.
 
 ## Dataset Description
 
