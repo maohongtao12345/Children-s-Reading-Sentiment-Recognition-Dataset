@@ -31,7 +31,7 @@ This dataset is licensed under the CC BY 4.0 License, allowing anyone to copy, d
 
 Hongtao Mao: Dataset construction and processing
 
-Xingwei Yan, Jiang Li, Qu Yang: Child psychology researchers responsible for data labeling
+Xingwei Yan, Jiang Li, Qu Yang: Data labeling
 
 ### Acknowledgements
 
