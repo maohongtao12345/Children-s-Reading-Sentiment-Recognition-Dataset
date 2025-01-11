@@ -24,16 +24,20 @@ The dataset is stored in CSV format with the following two fields:
 - **text**: The sentence text.
 - **vote**: The sentiment label, with values 1 (positive), 0 (neutral), or -1 (negative).
 
-- License
+### License
 This dataset is licensed under the CC BY 4.0 License, allowing anyone to copy, distribute, and modify the dataset, as long as they provide appropriate credit to the original author.
 
-Contributors
+### Contributors
+
 Hongtao Mao: Dataset construction and processing
 Xingwei Yan, Jiang Li, Qu Yang: Child psychology researchers responsible for data labeling
-Acknowledgements
+
+### Acknowledgements
+
 We would like to thank all the child psychology researchers who contributed to the labeling and verification of the dataset.
 
-Contact
+### Contact
+
 For any questions or suggestions, please contact:
 Hongtao Mao: maohongtao@mails.ccnu.edu.cn
 
